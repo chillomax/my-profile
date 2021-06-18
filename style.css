@@ -1,0 +1,64 @@
+body {
+background-color: floralwhite;	
+color: darkred;
+font-family: Arial,serif;
+font-size: 30px;
+}
+
+h2 {
+	color: darkred;
+	font-weight:900;
+}
+p {
+	color: black;
+	font-family: Helvetica;
+	text-align: center;
+ }
+
+a
+{
+display:block;
+text-align:center;
+sty
+}
+li{
+	color: black;
+} 
+ul{
+	display: inline-block;
+}
+.socialmedia {
+	width: 30px;
+}
+
+#pp {
+	    width: 200px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Titre{
+	text-align: center;
+}
+
+input {
+	    color: white;
+    width: 231px;
+    background-color: darkred;
+    border-radius: 5px;
+    height: 49px;
+    font-size: 22px;
+    padding: revert;
+}
+
+#caca {
+	color: white;
+    width: 346px;
+    background-color: darkred;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 22px;
+}
+
